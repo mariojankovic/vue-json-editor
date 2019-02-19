@@ -16,7 +16,7 @@ vue.js
 # How to use
 ## 1. Install vue-json-editor using npm
 ```
-npm install vue-json-editor --save
+npm install mariojankovic/vue-json-editor --save
 ```
 ## 2. Use vue-json-editor in your vue component
 ```vue
