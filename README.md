@@ -1,6 +1,6 @@
 NOTE: This is a fork and translation of [dirkliu/vue-json-editor](https://github.com/dirkliu/vue-json-editor)
 
-[screenshot](https://i.imgur.com/r1QRchE.png)
+![screenshot](https://i.imgur.com/r1QRchE.png)
 
 # vue-json-editor
 A JSON schema editor for Vue.js.
